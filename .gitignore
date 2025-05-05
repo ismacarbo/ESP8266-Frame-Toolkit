@@ -1,0 +1,29 @@
+# PlatformIO core
+.pio/
+.vscode/
+*.pyc
+*.pyo
+*.env
+*.DS_Store
+
+# Compiled binary
+*.elf
+*.bin
+*.hex
+*.map
+
+# PlatformIO build & upload cache
+*.d
+*.o
+*.a
+*.gz
+*.tmp
+
+# Logs
+*.log
+
+# MacOS and Linux temp files
+*.swp
+*~
+.cache/
+
