@@ -76,7 +76,7 @@ void sendBeacon(const char* ssid, uint8_t ch) {
 }
 
 void performAttack() {
-  Serial.print("⚔️  Running attack mode: ");
+  Serial.print("running attack mode: ");
   Serial.println(attack_mode);
 
   for (int i = 0; i < 100; i++) {
